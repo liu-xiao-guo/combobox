@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=combobox
+Exec=qmlscene $@ Main.qml
+Icon=combobox.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

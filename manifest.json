@@ -1,0 +1,17 @@
+{
+    "name": "combobox.liu-xiao-guo",
+    "description": "description of combobox",
+    "architecture": "all",
+    "title": "combobox",
+    "hooks": {
+        "combobox": {
+            "apparmor": "combobox.apparmor",
+            "desktop":  "combobox.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
